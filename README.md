@@ -1,1 +1,1 @@
-# t-i-u-h-a-ch-ng-tr-nh
+# Kỹ thuật tối ưu hóa chương trình.
